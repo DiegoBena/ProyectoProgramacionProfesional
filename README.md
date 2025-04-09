@@ -34,3 +34,20 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+Set-Content -Path README.md "# Proyecto Grupo 0 - Gestión de Encomiendas
+
+Este proyecto fue creado con Next.js, TailwindCSS y Supabase para el ramo Programación Profesional (TICS420-1-2025).
+
+## 🚀 Instrucciones para correr el proyecto localmente:
+
+1. Clonar el repositorio:
+   git clone https://github.com/Lore131989/Proyecto-Grupo-0.git
+
+2. Instalar dependencias:
+   npm install
+
+3. Levantar el servidor de desarrollo:
+   npm run dev
+
+Luego accede a: http://localhost:3000"
